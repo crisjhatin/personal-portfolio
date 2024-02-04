@@ -11,3 +11,7 @@ This is the changelog of my personal portfolio project
 
 ### Added
 - *index.html, styles.css, CHANGELOG.md, README.md* files and **assets** folder.
+
+## [1.0.1] - 2024-02-03
+- *README.md*: title added.
+- *index.html*: h1 changed.
